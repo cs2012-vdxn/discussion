@@ -32,6 +32,16 @@
 
 Will provide a few options determined by admin.
 
+### 6 & 7. Category & Tag
+
+- A category is broad, for instance "work", "home".
+
+- The main page should have links to the broad categories.
+
+- These categories can also be a filter criteria in search.
+
+- A tag is anything that the user wants to add.
+
 ## Features/Queries for each Components
 
 ### 1. Task
