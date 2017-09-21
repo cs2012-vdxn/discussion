@@ -36,4 +36,4 @@ suggested template).
 on number of bids or distances, etc)
 
 #### Entity-Relationship Diagram
-![](./ER_diagram.jpg)
+![alt_text](./ER_diagram.png)
