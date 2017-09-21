@@ -34,3 +34,6 @@ suggested template).
 1. A chat channel between task posters and takers
 2. Credit score of the task posters and task takers (so that both parties can put credibiltiy into consideration, rather than simply depending 
 on number of bids or distances, etc)
+
+#### Entity-Relationship Diagram
+![ER_diagram](ER_diagram.jpg "ER")
